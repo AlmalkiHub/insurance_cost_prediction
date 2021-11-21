@@ -13,7 +13,7 @@ Predicting the medical insurance charges for a person given other feature variab
 
 
 You can find the data through this link:
-https://github.com/stedy/Machine-Learning-with-R-datasets
+https://www.kaggle.com/mirichoi0218/insurance
 
 
 ## 3. Features
